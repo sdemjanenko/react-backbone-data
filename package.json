@@ -1,0 +1,14 @@
+{
+  "name": "react-backbone-data",
+  "version": "0.0.1",
+  "description": "Add immutable support to Backbone Models",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdemjanenko/react-backbone-data"
+  },
+  "dependencies": {
+    "backbone": "1.1.2",
+    "react": "0.10.0",
+    "underscore": "1.6.0"
+  }
+}
